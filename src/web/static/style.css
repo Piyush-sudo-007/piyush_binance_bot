@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: #eee;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    width: 400px;
+    background: #1e1e1e;
+    border-radius: 10px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+button {
+    background-color: #f0b90b;
+    border: none;
+    color: #000;
+    margin-top: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.messages li {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.messages .success {
+    background: #28a745;
+}
+.messages .error {
+    background: #dc3545;
+}
