@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 🚀 Binance Futures Order Bot (Testnet)
-=======
 # Binance Futures CLI Bot
->>>>>>> a45ee03faf1daef88b6c048ff9c839e6eeec5a1e
 
 A **CLI + Web UI based Trading Bot** for **Binance USDT-M Futures Testnet**, built with Python.  
 Supports **Market and Limit** orders, structured logging, and an optional **Flask dashboard** for managing trades visually.
